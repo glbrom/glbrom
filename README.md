@@ -8,4 +8,4 @@ Implemented chat for iOS watchOS macOS using the OpenAi platform
 
 > SwiftUI, Dark mode only, 
 
-<img src="images/ChatGPT.png">
+<img src="images/ChatGPT.png"> <img src="AppSimulation/ChatGPT.gif">
