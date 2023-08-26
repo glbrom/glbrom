@@ -33,6 +33,6 @@ Implemented a simple weather viewer application using geolocation
 
 > UIKit, CustomUI, CoreLocation, UIAlert, OpenWeatherApi, JSON, Lottie Animation
 
-<a href="https://github.com/glbrom/WeatherTracker"><img src="images/iconPrjct.svg" width="120"></a>
+<a href="https://github.com/glbrom/WeatherTrackerUIKit"><img src="images/iconPrjct.svg" width="120"></a>
 <img src="images/WeatherApp.png">
 
