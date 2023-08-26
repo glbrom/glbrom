@@ -1,6 +1,5 @@
 <img src="images/github.png">
 
-
 # ChatGPT
 Implemented chat for iOS watchOS macOS using the OpenAi platform
 
