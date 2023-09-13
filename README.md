@@ -1,6 +1,6 @@
 <img src="images/github.png">
 
-# CINEFLIX
+# Cineflix
 Final project at the end of training at SkyLab. It’s a cinematic library with which you will not miss news from the world of cinema: short synopsis, trailers, rating
 
 > UIKit, integrate SwiftUI to UIKit, Light/Dark mode, MVVM, Themoviedb API, Authentication, User verification or Guest session, Alamofire, Locksmith, Adding movies to your watchlist, SDWebImage, Lottie Animation, YoutubeiOSPlayerHelper, SafariServices, Storyboard(LoginViewController), Custom UIElements, UI Programmatically, Autolayout, Custom UICollectionView/UITableView Cell, UICollectionViewCompostionalLayout, Custom UISegmentedControl, UIAlert, Pagination.
