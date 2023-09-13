@@ -12,7 +12,7 @@ Final project at the end of training at SkyLab. It’s a cinematic library with 
 # ChatGPT
 Implemented chat for iOS watchOS macOS using the OpenAi platform
 
-> SwiftUI, Dark mode only, OpenAIApi, Alamofire
+> SwiftUI, Dark mode only, OpenAIApi, Alamofire, Matrix effect, Custom animation
 
 <a href="https://github.com/glbrom/ChatGPT"><img src="images/iconPrjct.svg" width="100"></a>
 <img src="images/ChatGPT.png">
