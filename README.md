@@ -1,6 +1,6 @@
 <img src="images/github.png">
 
-[<img src="https://ghchart.rshah.org/glbrom" width="800">](#bottom)
+[<img src="https://ghchart.rshah.org/glbrom" width="500">](#bottom)
 
 # Cineflix
 Final project at the end of training at SkyLab. It’s a cinematic library with which you will not miss news from the world of cinema: short synopsis, trailers, rating
