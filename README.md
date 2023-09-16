@@ -45,3 +45,5 @@ Implemented a simple weather viewer application using geolocation
 
 <a href="https://github.com/glbrom/WeatherTrackerUIKit"><img src="images/iconPrjct.svg" width="100"></a>
 <img src="images/WeatherApp.png">
+
+<a name="bottom"></a>
