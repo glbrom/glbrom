@@ -1,7 +1,7 @@
 <img src="images/github.png">
 
 <div align="center">
- <img src="https://ghchart.rshah.org/glbrom" width="750" (#bottom)>
+ <img src="https://ghchart.rshah.org/glbrom" width="750" #bottom>
 </div>
 
 
