@@ -1,9 +1,7 @@
 <img src="images/github.png">
 
 <div align="center">
-  <a href="#bottom">
     <img src="https://ghchart.rshah.org/glbrom" width="750">
-  </a>
 </div>
 
 # Cineflix
@@ -49,5 +47,3 @@ Implemented a simple weather viewer application using geolocation
 
 <a href="https://github.com/glbrom/WeatherTrackerUIKit"><img src="images/iconPrjct.svg" width="100"></a>
 <img src="images/WeatherApp.png">
-
-<a name="bottom"></a>
