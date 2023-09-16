@@ -1,6 +1,6 @@
 <img src="images/github.png">
 
-<img src="https://ghchart.rshah.org/glbrom" alt="glbrom Github chart" />
+<img src="https://ghchart.rshah.org/glbrom"/>
 
 [<img src="https://ghchart.rshah.org/glbrom" width="720">](#bottom)
 
