@@ -1,8 +1,4 @@
-<img src="images/github.png">
-
-<div align="center">
-    <img src="https://ghchart.rshah.org/glbrom" width="750">
-</div>
+<img src="images/github v2.png">
 
 # Cineflix
 Final project at the end of training at SkyLab. It’s a cinematic library with which you will not miss news from the world of cinema: short synopsis, trailers, rating
