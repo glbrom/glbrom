@@ -1,5 +1,18 @@
 <img src="images/github v2.png">
 
+# Apps:
+
+<a href="https://github.com/glbrom/NewsToDay"><img src="images/NewsToDayIconApp.png" width="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+# NewsToDay
+Final project at the end of training at SkyLab. It’s a cinematic library with which you will not miss news from the world of cinema: short synopsis, trailers, rating
+
+> SwiftUI, Firebase, Authorization, MVVM, Custom Fonts, Custom Icons, Network, JSON, 
+
+<a href="https://github.com/glbrom/NewsToDay"><img src="images/iconPrjct.svg" width="100"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.figma.com/design/pif4EdlBtkGzj0YzlAWLIp/Challenge-№2-%22NewsToDay-App%22?node-id=0-1&node-type=canvas&m=dev"><img src="images/FigmaIcon.png" width="100"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="images/NewsToDay.png">
+
 # Cineflix
 Final project at the end of training at SkyLab. It’s a cinematic library with which you will not miss news from the world of cinema: short synopsis, trailers, rating
 
