@@ -2,12 +2,18 @@
 
 # Apps:
 
-<a href="https://github.com/glbrom/NewsToDay"><img src="images/NewsToDayIconApp.png" width="50"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/glbrom/NewsToDay"><img src="images/NewsToDayIconApp.png" width="50"></a>&nbsp;&nbsp;
+<a href="https://github.com/glbrom/CineFlix"><img src="images/CineflixIconApp.png" width="50"></a>&nbsp;&nbsp;
+<a href="https://github.com/glbrom/TicTacToe"><img src="images/XOIconApp.png" width="50"></a>&nbsp;&nbsp;
+<a href="https://github.com/glbrom/ChatGPT"><img src="images/ChatGPTIconApp.png" width="50"></a>&nbsp;&nbsp;
+<a href="https://github.com/glbrom/StockMarketClock"><img src="images/StockMarketClockIconApp.png" width="50"></a>&nbsp;&nbsp;
+<a href="https://github.com/glbrom/Tic-Tac-Toe"><img src="images/XO2IconApp.png" width="50"></a>&nbsp;&nbsp;
+<a href="https://github.com/glbrom/WeatherTrackerUIKit"><img src="images/WeatherTrackerIconApp.png" width="50"></a>&nbsp;&nbsp;
 
 # NewsToDay
-Final project at the end of training at SkyLab. It’s a cinematic library with which you will not miss news from the world of cinema: short synopsis, trailers, rating
+This is a simple news feed implementation, is intended for both educational purposes and for gaining experience in working in a team.
 
-> SwiftUI, Firebase, Authorization, MVVM, Custom Fonts, Custom Icons, Network, JSON, 
+> SwiftUI, Firebase, Authorization, MVVM,  Network, JSON, Custom Fonts, Custom Icons, Parallax, Followed the design in Figma.
 
 <a href="https://github.com/glbrom/NewsToDay"><img src="images/iconPrjct.svg" width="100"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.figma.com/design/pif4EdlBtkGzj0YzlAWLIp/Challenge-№2-%22NewsToDay-App%22?node-id=0-1&node-type=canvas&m=dev"><img src="images/FigmaIcon.png" width="100"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -18,8 +24,7 @@ Final project at the end of training at SkyLab. It’s a cinematic library with 
 
 > UIKit, integrate SwiftUI to UIKit, Light/Dark mode, MVVM, TMDB API, Splash Launch Screen(SwiftUI), Custom Intro PageController(SwiftUI), Storyboard(LoginViewController) other controllers are made by code, Authentication, User verification or Guest session, Alamofire, Locksmith, Adding movies to your favorites with TheMoviedb synchronization, SDWebImage, Lottie Animation, YoutubeiOSPlayerHelper, SafariServices, CocoaPods, Custom UIElements, UIProgrammatically, Autolayout, Custom UICollectionView/UITableView Cell, UICollectionViewCompostionalLayout, Custom UISegmentedControl, UIAlert, Pagination
 
-<a href="https://github.com/glbrom/CineFlix"><img src="images/iconPrjct.svg" width="100"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/glbrom/glbrom/blob/9a1c51f6178b86d8e2628b3f928f824fa1c70f3b/images/FigmaIcon.png" width="100">
+<a href="https://github.com/glbrom/CineFlix"><img src="images/iconPrjct.svg" width="100"></a>
 
 <img src="images/CineFlix.png">
 
