@@ -13,7 +13,7 @@
 # NewsToDay
 This is a simple news feed implementation, is intended for both educational purposes and for gaining experience in working in a team.
 
-> SwiftUI, Firebase, Authorization, MVVM,  Network, JSON, Custom Fonts, Custom Icons, Parallax, Followed the design in Figma.
+> SwiftUI, Firebase, Authorization, MVVM, Network, JSON, Allerts, Custom Fonts, Custom Icons, Parallax, Followed the design in Figma.
 
 <a href="https://github.com/glbrom/NewsToDay"><img src="images/iconPrjct.svg" width="100"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.figma.com/design/pif4EdlBtkGzj0YzlAWLIp/Challenge-№2-%22NewsToDay-App%22?node-id=0-1&node-type=canvas&m=dev"><img src="images/FigmaIcon.png" width="100"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -27,6 +27,16 @@ Final project at the end of training at SkyLab. It’s a cinematic library with 
 <a href="https://github.com/glbrom/CineFlix"><img src="images/iconPrjct.svg" width="100"></a>
 
 <img src="images/CineFlix.png">
+
+# TicTacToe
+This is a simple implementation of the classic game, designed for both educational purposes and entertainment. 
+Tic Tac Toe is a two-player game where players take turns marking a square on a 3x3 grid. The objective is to be the first to get three of their marks in a row: horizontally, vertically, or diagonally. 
+
+> SwiftUI, MVVM, AppStorage, Custom UIElements, Custom Icons, Play with friend or AI, Followed the design in Figma.
+
+<a href="https://github.com/glbrom/TicTacToe"><img src="images/iconPrjct.svg" width="100"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.figma.com/design/VCZaYZSjHcyS2hoax7JQtl/Крестики-нолики?node-id=23-3395&node-type=canvas&t=4OQqKled6ZMdUNhb-0"><img src="images/FigmaIcon.png" width="100"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="images/XOApp.png">
 
 # ChatGPT
 Implemented chat for iOS watchOS macOS using the OpenAi platform
