@@ -15,7 +15,7 @@ Event Hub is a mobile application for discovering and managing events. It helps 
 
 > SwiftUI, MapKit, CoreLocation, Google Authorization, Firebase, Realm, Kingfisher, WebKit MVVM, Network, JSON, Allerts, Custom Fonts, Custom Icons, Parallax, Followed the design in Figma.
 
-<a href="https://github.com/glbrom/EventHub"><img src="images/iconPrjct.svg" width="100"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.figma.com/design/P1E4JoRoXGBgk1Tyanamay/Challenge-№3-%22Even-Hub%22?node-id=0-1&node-type=canvas&t=cvVaGlFALTqGBBi4-0"><img src="images/FigmaIcon.png" width="100"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://docs.kudago.com/api/#"><img src="images/iconPrjct.svg" width="100"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/ridebyhorse/EventHub"><img src="images/iconPrjct.svg" width="100"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.figma.com/design/P1E4JoRoXGBgk1Tyanamay/Challenge-№3-%22Even-Hub%22?node-id=0-1&node-type=canvas&t=cvVaGlFALTqGBBi4-0"><img src="images/FigmaIcon.png" width="100"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://docs.kudago.com/api/#"><img src="images/iconPrjct.svg" width="100"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img src="images/NewsToDay.png">
 
