@@ -6,6 +6,7 @@
 <a href="https://github.com/glbrom/NewsToDay"><img src="images/NewsToDayIconApp.png" width="50"></a>&nbsp;&nbsp;
 <a href="https://github.com/glbrom/CineFlix"><img src="images/CineflixIconApp.png" width="50"></a>&nbsp;&nbsp;
 <a href="https://github.com/glbrom/TicTacToe"><img src="images/XOIconApp.png" width="50"></a>&nbsp;&nbsp;
+<a href="https://github.com/glbrom/SpaceX"><img src="images/SpaceXicon.png" width="50"></a>&nbsp;&nbsp;
 <a href="https://github.com/glbrom/ChatGPT"><img src="images/ChatGPTIconApp.png" width="50"></a>&nbsp;&nbsp;
 <a href="https://github.com/glbrom/StockMarketClock"><img src="images/StockMarketClockIconApp.png" width="50"></a>&nbsp;&nbsp;
 <a href="https://github.com/glbrom/Tic-Tac-Toe"><img src="images/XO2IconApp.png" width="50"></a>&nbsp;&nbsp;
@@ -47,6 +48,15 @@ Tic Tac Toe is a two-player game where players take turns marking a square on a 
 <a href="https://github.com/glbrom/TicTacToe"><img src="images/iconPrjct.svg" width="100"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.figma.com/design/VCZaYZSjHcyS2hoax7JQtl/Крестики-нолики?node-id=23-3395&node-type=canvas&t=4OQqKled6ZMdUNhb-0"><img src="images/FigmaIcon.png" width="100"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img src="images/XOApp.png">
+
+# SpaceX
+The app shows information about SpaceX space rockets and a list of their launches.
+
+> UIKit, MVVM, SnapKit, Kingfisher, URLSession, No Storyboard
+
+<a href="https://github.com/glbrom/SpaceX"><img src="images/iconPrjct.svg" width="100"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://api.spacexdata.com/v4/rockets"><img src="images/APIicon.png" width="74"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<img src="images/SpaceX.png">
 
 # ChatGPT
 Implemented chat for iOS watchOS macOS using the OpenAi platform
