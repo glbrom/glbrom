@@ -2,6 +2,7 @@
 
 # Apps:
 
+<a href="https://github.com/ridebyhorse/EventHub"><img src="images/EventHubiconApp.png" width="50"></a>&nbsp;&nbsp;
 <a href="https://github.com/glbrom/NewsToDay"><img src="images/NewsToDayIconApp.png" width="50"></a>&nbsp;&nbsp;
 <a href="https://github.com/glbrom/CineFlix"><img src="images/CineflixIconApp.png" width="50"></a>&nbsp;&nbsp;
 <a href="https://github.com/glbrom/TicTacToe"><img src="images/XOIconApp.png" width="50"></a>&nbsp;&nbsp;
@@ -13,11 +14,11 @@
 # EventHub
 Event Hub is a mobile application for discovering and managing events. It helps users stay updated on interesting activities, save favorites, and share events with friends.
 
-> SwiftUI, MapKit, CoreLocation, Google Authorization, Firebase, Realm, Kingfisher, WebKit MVVM, Network, JSON, Allerts, Custom Fonts, Custom Icons, Parallax, Followed the design in Figma.
+> SwiftUI, MVVM, SPM, Google Authorization, Firebase, Realm, Kingfisher, MapKit, CoreLocation, WebKit, Network, JSON, Allerts, Custom Tab bar, Custom MapAnnotation, Custom Fonts, Custom Icons, Parallax, Followed the design in Figma.
 
 <a href="https://github.com/ridebyhorse/EventHub"><img src="images/iconPrjct.svg" width="100"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.figma.com/design/P1E4JoRoXGBgk1Tyanamay/Challenge-№3-%22Even-Hub%22?node-id=0-1&node-type=canvas&t=cvVaGlFALTqGBBi4-0"><img src="images/FigmaIcon.png" width="100"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://docs.kudago.com/api/#"><img src="images/APIicon.png" width="74"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="images/NewsToDay.png">
+<img src="images/EventHubPreview.png">
 
 # NewsToDay
 This is a simple news feed implementation, is intended for both educational purposes and for gaining experience in working in a team.
