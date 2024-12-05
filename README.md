@@ -24,7 +24,7 @@ Event Hub is a mobile application for discovering and managing events. It helps 
 # NewsToDay
 This is a simple news feed implementation, is intended for both educational purposes and for gaining experience in working in a team.
 
-> SwiftUI, Firebase, Authorization, MVVM, Network, JSON, Allerts, Custom Fonts, Custom Icons, Parallax, Followed the design in Figma.
+> SwiftUI, MVVM, Firebase, Authorization, UserDefaults, Localization, Network, JSON, Allerts, Custom Fonts, Custom Icons, Parallax, Followed the design in Figma.
 
 <a href="https://github.com/glbrom/NewsToDay"><img src="images/iconPrjct.svg" width="100"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.figma.com/design/pif4EdlBtkGzj0YzlAWLIp/Challenge-№2-%22NewsToDay-App%22?node-id=0-1&node-type=canvas&m=dev"><img src="images/FigmaIcon.png" width="100"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://newsapi.org"><img src="images/APIicon.png" width="74"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
